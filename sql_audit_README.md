@@ -1,10 +1,10 @@
-# 🗄️ SQL Data Licensing Audit
+# SQL Data Licensing Audit
 
 A SQL-based data quality audit on 150 AI research articles, built to simulate real database querying workflows at AI and data licensing companies.
 
 ---
 
-## 📋 Project Summary
+## Project Summary
 
 | Metric | Result |
 |---|---|
@@ -16,7 +16,7 @@ A SQL-based data quality audit on 150 AI research articles, built to simulate re
 
 ---
 
-## 🔍 What The Audit Does
+## What The Audit Does
 
 Uses SQL queries to answer 7 key business questions:
 
@@ -30,7 +30,7 @@ Uses SQL queries to answer 7 key business questions:
 
 ---
 
-## 🛠️ SQL Commands Used
+## SQL Commands Used
 
 | Command | Purpose |
 |---|---|
@@ -48,7 +48,7 @@ Uses SQL queries to answer 7 key business questions:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python 3
 - pandas
@@ -56,7 +56,7 @@ Uses SQL queries to answer 7 key business questions:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 **1. Clone the repository**
 ```bash
@@ -83,7 +83,7 @@ Three CSV reports are generated:
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
 **Only 54% of articles are safe for AI training** — the rest are either unlicensed, proprietary, or too short.
 
@@ -99,14 +99,14 @@ Three CSV reports are generated:
 
 ---
 
-## 🔗 Related Projects
+##  Related Projects
 
 - [data-licensing-audit](https://github.com/sapanagc/data-licensing-audit) — pandas-based audit tool
 - [ai-articles-audit](https://github.com/sapanagc/ai-articles-audit) — full audit on 150-row dataset
 
 ---
 
-## 👤 Author
+##  Author
 
 **sapanagc** — Aspiring Data Licensing Analyst  
 Learning Python · Pandas · SQL for AI data licensing roles  
